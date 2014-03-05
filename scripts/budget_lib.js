@@ -28,13 +28,22 @@ var BudgetLib = {
 
   //IDs used to reference Fusion Tables, where we store our data
   FusionTableApiKey: "AIzaSyDgYMq5VzeWQdYNpvYfP0W3NuCKYOAB5_Y",
-  BUDGET_TABLE_ID: "1ZJJvlYCYTC1DIgp_tkJKEAs9l0sdO7J4kF8Gv9Y", //main budget table with expenditures/appropriations per department per year
-  FUND_DESCRIPTION_TABLE_ID: "1DVnzs1tOFrVxrf6_jRFeXUe7b6lDYd5jh309Up4",
-  OFFICER_DESCRIPTION_TABLE_ID: "1uSDhUpVbk3c7m0E7iT87LP8GfPk6vnczh-y64sI",
+  //BUDGET_TABLE_ID: "1ZJJvlYCYTC1DIgp_tkJKEAs9l0sdO7J4kF8Gv9Y", //main budget table with expenditures/appropriations per department per year
+  //FUND_DESCRIPTION_TABLE_ID: "1DVnzs1tOFrVxrf6_jRFeXUe7b6lDYd5jh309Up4",
+  //OFFICER_DESCRIPTION_TABLE_ID: "1uSDhUpVbk3c7m0E7iT87LP8GfPk6vnczh-y64sI",
+  //FusionTableApiKey: "AIzaSyBfgvnvQwWSNBan5w-zxs8wjcOVj_1NP9Y",
   
-  title: "Cook County Budget",
-  startYear: 1993,
-  endYear: 2012,
+  //BUDGET_TABLE_ID: "1cLr0E-p5UtS5JSWVaB0iSzK88GdcIws0pSube6Mu", //main budget table with expenditures/appropriations per department per year
+  //FUND_DESCRIPTION_TABLE_ID: "1oWo0m0rcS1x7Z90QRsnygCEDyv0W7sFahC5ffM2T",
+  //OFFICER_DESCRIPTION_TABLE_ID: "1Jcs_AribcxGu2VX-g0yYQY6VY6lFhQxGjuyB1gk8",
+
+  BUDGET_TABLE_ID: "1mfuxcqzLmykm92Mo-IVrsSJZGZSBuANxA9GKBvoM", //main budget table with expenditures/appropriations per department per year
+  FUND_DESCRIPTION_TABLE_ID: "1e233lpRVSxBifbOZXOA9GVfgZxOJhR2zy_yhW10Z",
+  OFFICER_DESCRIPTION_TABLE_ID: "1Wx_We_dFrfpmrBZGwpetNt0EVwAD9wRNNPc7GcIc",
+  
+  title: "Virginia Beach Budget",
+  startYear: 2011,
+  endYear: 2013,
   loadYear: 2012, //viewing year
   fundView: "", //viewing fund
   officerView: "", //viewing control officer
