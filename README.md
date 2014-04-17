@@ -1,7 +1,21 @@
-[Look at Cook](http://lookatcook.com)
+[Look at Virginia Beach](http://c4hrva.github.io/look-at-virginiabeach/)
 =====================================
 
-A budget transparency visualization for Cook County, IL (Chicago's county) displaying all county departments broken down by fund and control officer from 1993 to 2011. Done as a collaboration with Cook County Commissioner John Fritchey.
+Based on [Look at Cook repo](https://github.com/open-city/look-at-cook). Thanks Derek and Nick!
+
+
+Fusion Tables for VB Data
+2012-2014
+Budget Table https://www.google.com/fusiontables/DataSource?docid=1mfuxcqzLmykm92Mo-IVrsSJZGZSBuANxA9GKBvoM
+Officer Descriptions https://www.google.com/fusiontables/DataSource?docid=1Wx_We_dFrfpmrBZGwpetNt0EVwAD9wRNNPc7GcIc
+
+
+
+
+
+
+
+
 
 Dependencies
 ------------
@@ -11,14 +25,6 @@ Dependencies
 - [jQuery Address](http://www.asual.com/jquery/address/) (for RESTful URLs)
 - [Highcharts](http://www.highcharts.com/) (for the line graph)
 - [Datatables](http://datatables.net) (for the appropriations and expenditures lists)
-
-Press
------
-
-- [O'reilly Radar](http://radar.oreilly.com/2011/09/look-at-cook-gov-data-visualization.html)
-- [govfresh](http://govfresh.com/2011/09/beautiful-budgets-look-at-cook/)
-- [Civic Commons](http://civiccommons.org/2011/11/look-at-cook-open-sourced/)
-- [Metafilter Projects](http://projects.metafilter.com/3241/Look-at-Cook-A-Budget-Visualization-for-Cook-County-IL)
 
 Overview
 --------
