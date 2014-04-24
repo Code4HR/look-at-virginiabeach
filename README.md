@@ -8,14 +8,10 @@ Fusion Tables for VB Data
 
 2012-2014
 
-* Budget Table https://www.google.com/fusiontables/DataSource?docid=1mfuxcqzLmykm92Mo-IVrsSJZGZSBuANxA9GKBvoM
-* Officer Descriptions https://www.google.com/fusiontables/DataSource?docid=1Wx_We_dFrfpmrBZGwpetNt0EVwAD9wRNNPc7GcIc
-
-
-
-
-
-
+* [Budget Table](https://www.google.com/fusiontables/DataSource?docid=1mfuxcqzLmykm92Mo-IVrsSJZGZSBuANxA9GKBvoM)
+* [Officer Descriptions](https://www.google.com/fusiontables/DataSource?docid=1Wx_We_dFrfpmrBZGwpetNt0EVwAD9wRNNPc7GcIc)
+* [VA State Monies](http://datapoint.apa.virginia.gov/)
+* [Google Docs for Background Info and some data](https://drive.google.com/folderview?id=0B8wnT8pwztFCeG04eVpjSUFJdEU&usp=sharing)
 
 
 
